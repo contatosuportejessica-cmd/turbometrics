@@ -1,0 +1,26 @@
+═══════════════════════════════════════════
+  Anti-ansiedad — Arquivos para seu Hosting
+  Gerado por EvaFunnels
+═══════════════════════════════════════════
+
+INSTRUCOES:
+1. Suba TODOS os arquivos para a raiz do seu dominio
+2. Certifique-se que PHP esta habilitado no hosting
+3. Acesse seu dominio — o app estara funcionando!
+
+ARQUIVOS:
+  index.php     — Pagina principal (chama a API)
+  app.js        — PWA (iOS install helper)
+  sw.js         — Service Worker (funciona offline)
+  manifest.json — Manifest do PWA (nome, icones)
+  icon-192.png  — Icone 192x192 (home screen)
+  icon-512.png  — Icone 512x512 (splash)
+  .htaccess     — Configuracao do servidor
+
+IMPORTANTE:
+  - NAO edite os arquivos
+  - O dominio precisa estar na plataforma
+  - Apague .afp_cache_*.html para forcar atualizacao
+
+Licenca: 8cd49ca8...
+App: anti_ansiedade_es
